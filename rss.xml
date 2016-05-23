@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Alexanderson Bolaño]]></title>
-        <description><![CDATA[Alexanderson Bolaño]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Official website Alexanderson Bolano ]]></title>
+        <description><![CDATA[Official website Alexanderson Bolano ]]></description>
+        <link>https://thegrid.ai/alexanderson-bolano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 23:29:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 23:35:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alexanderson-bolano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Prensa]]></title>
             <description><![CDATA[<p>Prensa.</p>]]></description>
-            <link>undefinedprensa/index.html</link>
+            <link>https://thegrid.ai/alexanderson-bolano/prensa/index.html</link>
             <guid isPermaLink="false">961e6886-b5bc-4b2e-aa0f-9a65982fabab</guid>
-            <pubDate>Mon, 23 May 2016 23:29:12 GMT</pubDate>
+            <pubDate>Mon, 23 May 2016 23:35:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
